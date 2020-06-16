@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+Hello World, this is Muchang. Chris and Injoon are sexy. We went to London last summer. Hello again. What's up. 
+=======
 Hello World, this is Muchang. Chris and Injoon are sexy. We went to London last summer. Hello again. 
 
 What's up.
+>>>>>>> 8dffdb218e6c9aa09f82a993bf5085eb3394f89a
+
+Hello again. 
